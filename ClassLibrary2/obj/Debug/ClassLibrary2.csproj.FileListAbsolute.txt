@@ -1,0 +1,2 @@
+/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Debug/ClassLibrary2.csproj.AssemblyReference.cache
+/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Debug/ClassLibrary2.csproj.CoreCompileInputs.cache

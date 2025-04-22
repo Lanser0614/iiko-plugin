@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/ClassLibrary2.csproj": {}
+  },
+  "projects": {
+    "/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/ClassLibrary2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/ClassLibrary2.csproj",
+        "projectName": "ClassLibrary2",
+        "projectPath": "/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/ClassLibrary2.csproj",
+        "packagesPath": "/Users/bellissimopizza/.nuget/packages/",
+        "outputPath": "/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/bellissimopizza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net47"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net47": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "dependencies": {
+            "Resto.Front.Api.PluginPackaging": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.13, )"
+            },
+            "Resto.Front.Api.V7": {
+              "target": "Package",
+              "version": "[7.9.6015, )"
+            },
+            "System.Reactive": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "WMPLib": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

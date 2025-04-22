@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ZHqlS4Pty4=",
+  "success": true,
+  "projectFilePath": "/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/ClassLibrary2.csproj",
+  "expectedPackageFiles": [
+    "/Users/bellissimopizza/.nuget/packages/nuget.build.tasks.pack/5.5.1/nuget.build.tasks.pack.5.5.1.nupkg.sha512",
+    "/Users/bellissimopizza/.nuget/packages/resto.front.api.pluginpackaging/1.0.13/resto.front.api.pluginpackaging.1.0.13.nupkg.sha512",
+    "/Users/bellissimopizza/.nuget/packages/resto.front.api.v7/7.9.6015/resto.front.api.v7.7.9.6015.nupkg.sha512",
+    "/Users/bellissimopizza/.nuget/packages/system.reactive/4.2.0/system.reactive.4.2.0.nupkg.sha512",
+    "/Users/bellissimopizza/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/bellissimopizza/.nuget/packages/system.threading.tasks.extensions/4.5.3/system.threading.tasks.extensions.4.5.3.nupkg.sha512",
+    "/Users/bellissimopizza/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/bellissimopizza/.nuget/packages/wmplib/1.0.0/wmplib.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

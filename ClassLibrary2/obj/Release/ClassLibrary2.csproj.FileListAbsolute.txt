@@ -1,0 +1,6 @@
+/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Release/ClassLibrary2.csproj.AssemblyReference.cache
+/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Release/ClassLibrary2.csproj.CoreCompileInputs.cache
+/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/bin/Release/ClassLibrary2.dll
+/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/bin/Release/ClassLibrary2.pdb
+/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Release/ClassLibrary2.dll
+/Users/bellissimopizza/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Release/ClassLibrary2.pdb
